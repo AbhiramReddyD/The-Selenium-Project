@@ -12,7 +12,9 @@ prefs = {'profile.managed_default_content_settings.images':2, 'disk-cache-size':
 options.add_experimental_option("prefs", prefs)
 driver = webdriver.Chrome()
 for i in range(50):
+    #loads this fifty times
     print(i)
     driver.get('https://techknowspace.wordpress.com/2019/01/06/best-mobile-phones-of-2018/')
+    #this is my blog page
 time.sleep(5)
 driver.quit()
