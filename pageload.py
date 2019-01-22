@@ -18,3 +18,4 @@ for i in range(50):
     #this is my blog page
 time.sleep(5)
 driver.quit()
+#Note this is experimental some websites detect that using a bot so be careful
