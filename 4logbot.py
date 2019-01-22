@@ -24,6 +24,6 @@ submit_button.click()
 time.sleep(6)
 #waiting time
 driver.quit()
-
+#Remember some wewbsites can detect that you are using  a bot so it is better to set some sleep time and login manually
 #finally closes it
 
