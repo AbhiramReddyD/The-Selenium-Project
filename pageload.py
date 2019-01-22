@@ -18,4 +18,6 @@ for i in range(50):
     #this is my blog page
 time.sleep(5)
 driver.quit()
-#Note this is experimental some websites detect that using a bot so be careful
+#Note this is experimental some websites detect that using a bot so be careful always proceed with caution
+# It may lead to permanent blocking of your account
+# Better to use a fake account
