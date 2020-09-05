@@ -1,3 +1,3 @@
 # Automation with Selenium
-![Logo](automate.PNG)
+![Logo](https://github.com/AbhiramReddyD/The-Selenium-Project/blob/master/automate.png)
 Drop a ⭐
