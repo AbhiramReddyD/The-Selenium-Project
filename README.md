@@ -1,12 +1,11 @@
 <h1 align="center">
-	⏪The Selenium Project⏩
+	🤖The Selenium Project🐍
 </h1>
+<h3 align="center">
+	Automate Boring Tasks with Python
+</h3>
 
 ![Logo](https://github.com/AbhiramReddyD/The-Selenium-Project/blob/master/automate.png)
-
-<h3 align="center">
-	🤖Automate Boring Tasks with Python🐍
-</h3>
 
 ## What tasks can this Project Automate ?
 
