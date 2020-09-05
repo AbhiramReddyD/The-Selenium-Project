@@ -23,10 +23,9 @@
 ## Setup
 1. Python 3+
 2. pip install selenium
-3. Chrome Web Driver  
+3. downlaod Chrome Web Driver  
 
-## Resources [Setup & Explaination]
-Blog Posts explaining Setup and Working
+## Resources [Blog Posts with Setup & Explaination]
 * <a href="https://matrixread.com/program-to-click-a-button-n-times/">Setup and First Code</a>
 * <a href="https://matrixread.com/how-i-made-5-selenium-bots/">How I made 5 Selenium Bots</a>
 * <a href="https://matrixread.com/collecting-fake-profiles-on-linkedin/">Collecting Fake Profiles on LinkedIn</a>
