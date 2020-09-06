@@ -25,7 +25,13 @@
 2. pip install selenium
 3. downlaod Chrome Web Driver  
 
-## Resources [Blog Posts with Setup & Explaination]
+## 💻Code
+* <a href="https://github.com/AbhiramReddyD/The-Selenium-Project/blob/master/01_Selenium_Bots.ipynb">Selenium Bots</a>
+* <a href="https://github.com/AbhiramReddyD/The-Selenium-Project/blob/master/02_LinkedIn_Fake_Profile_Collector.ipynb">LinkedIn Fake Profile Detector</a>
+
+
+## Resources 
+[Blog Posts with Setup & Explaination]
 * <a href="https://matrixread.com/program-to-click-a-button-n-times/">Setup and First Code</a>
 * <a href="https://matrixread.com/how-i-made-5-selenium-bots/">How I made 5 Selenium Bots</a>
 * <a href="https://matrixread.com/collecting-fake-profiles-on-linkedin/">Collecting Fake Profiles on LinkedIn</a>
