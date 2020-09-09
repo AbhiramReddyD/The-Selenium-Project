@@ -2,7 +2,7 @@
 	🤖The Selenium Project🐍
 </h1>
 
-![Logo](https://github.com/AbhiramReddyD/The-Selenium-Project/blob/master/automate.png)
+[![Logo](https://github.com/AbhiramReddyD/The-Selenium-Project/blob/master/automate.png)](https://matrixread.com/tag/selenium)
 
 <h3 align="center">
 	Automate Boring Tasks with Python
