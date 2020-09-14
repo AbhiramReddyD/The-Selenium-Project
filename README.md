@@ -2,7 +2,7 @@
 	🤖The Selenium Project🐍
 </h1>
 
-![Logo](https://github.com/AbhiramReddyD/The-Selenium-Project/blob/master/automate.png)]
+![Logo](https://github.com/AbhiramReddyD/The-Selenium-Project/blob/master/automate.png)
 <h3 align="center">
 	Automate Boring Tasks with Python
 </h3>
@@ -35,6 +35,6 @@
 * <a href="https://matrixread.com/collecting-fake-profiles-on-linkedin/">Collecting Fake Profiles on LinkedIn</a>
 
 ### ⚡Visit My Blog at [matrixread.com](https://matrixread.com/)
-### 🌟If you like this Project Drop a '🌟' 
+### ⭐If you like this Project Drop a '🌟' 
 ### 😊Contributions are Welcome
 ### ❤️MIT LICENSE
