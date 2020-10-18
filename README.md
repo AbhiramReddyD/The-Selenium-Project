@@ -13,11 +13,7 @@
 
 🔰 Click a Button N Times
 
-🔰 Load/Visit a Website N times
-
 🔰 Collecting Fake Profiles on LinkedIn
-
-🔰 Collect and Print all links from a Page
 
 ## 🚀Setup
 1. Python 3+
@@ -37,4 +33,5 @@
 ### ⚡Visit My Blog at [matrixread.com](https://matrixread.com/)
 ### ⭐If you like this Project Drop a '🌟' 
 ### 😊Contributions are Welcome
-### ❤️MIT LICENSE
+
+MIT LICENSE
