@@ -30,8 +30,8 @@
 * <a href="https://matrixread.com/how-i-made-5-selenium-bots/">How I made 5 Selenium Bots</a>
 * <a href="https://matrixread.com/collecting-fake-profiles-on-linkedin/">Collecting Fake Profiles on LinkedIn</a>
 
-⚡Visit My Blog at [matrixread.com](https://matrixread.com/)
+Visit My Blog⚡ at [matrixread.com](https://matrixread.com/)
 
-⭐If you like this Project Drop a '🌟' 
+If you like this Project Drop a '🌟' 
 
 © MIT LICENSE
