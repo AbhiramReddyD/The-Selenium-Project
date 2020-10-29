@@ -34,4 +34,4 @@
 
 ⭐If you like this Project Drop a '🌟' 
 
-(c) MIT LICENSE
+© MIT LICENSE
