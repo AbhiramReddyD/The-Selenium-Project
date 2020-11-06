@@ -11,7 +11,7 @@
 
 🔰 Auto Login Bot
 
-🔰 Click a Button N Times
+🔰 Automate Web Clicks and Actions
 
 🔰 Collecting Fake Profiles on LinkedIn
 
@@ -31,9 +31,6 @@
 * <a href="https://matrixread.com/collecting-fake-profiles-on-linkedin/">Collecting Fake Profiles on LinkedIn</a>
 
 ***
-
-Visit My Blog⚡ at [matrixread.com](https://matrixread.com/)
-
 If you like this Project Drop a '🌟' 
 
 © MIT LICENSE
