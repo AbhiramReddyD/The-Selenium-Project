@@ -7,7 +7,7 @@
 	Automate Boring Tasks with Python & Selenium
 </h3>
 
-## This project can automate
+## This project can Automate
 
 🔰 Login and Search 
 
@@ -29,6 +29,4 @@
 * <a href="https://matrixread.com/program-to-click-a-button-n-times/">Setup, Code and first Run</a>
 * <a href="https://matrixread.com/how-i-made-5-selenium-bots/">How I made 5 Selenium Bots</a>
 * <a href="https://matrixread.com/collecting-fake-profiles-on-linkedin/">Collecting Fake Profiles on LinkedIn</a>
-
-***
 * If you like this Project Drop a '🌟' 
