@@ -31,6 +31,4 @@
 * <a href="https://matrixread.com/collecting-fake-profiles-on-linkedin/">Collecting Fake Profiles on LinkedIn</a>
 
 ***
-If you like this Project Drop a '🌟' 
-
-© MIT LICENSE
+* If you like this Project Drop a '🌟' 
