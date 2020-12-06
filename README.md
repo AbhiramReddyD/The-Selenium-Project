@@ -4,16 +4,16 @@
 
 ![Logo](https://github.com/AbhiramReddyD/The-Selenium-Project/blob/master/automate.png)
 <h3 align="center">
-	Automate Boring Tasks with Python
+	Automate Boring Tasks with Python & Selenium
 </h3>
 
-## What does this Project Do?
+## This project can automate
 
-🔰 Auto Login Bot
+🔰 Login and Search 
 
-🔰 Automate Web Clicks and Actions
+🔰 Automate Clicks and Actions
 
-🔰 Collecting Fake Profiles on LinkedIn
+🔰 Collect Fake Profiles on LinkedIn
 
 ## 🚀Setup
 1. Python 3+
@@ -22,11 +22,11 @@
 
 ## 💻Code
 * <a href="https://github.com/AbhiramReddyD/The-Selenium-Project/blob/master/01_Selenium_Bots.ipynb">Selenium Bots</a>
-* <a href="https://github.com/AbhiramReddyD/The-Selenium-Project/blob/master/02_LinkedIn_Fake_Profile_Collector.ipynb">LinkedIn Fake Profile Detector</a>
+* <a href="https://github.com/AbhiramReddyD/The-Selenium-Project/blob/master/02_LinkedIn_Fake_Profile_Collector.ipynb">LinkedIn Fake Profile Collector</a>
 
 ## ✅Resources 
 [Blog Posts with Setup & Explaination]
-* <a href="https://matrixread.com/program-to-click-a-button-n-times/">Setup and First Code</a>
+* <a href="https://matrixread.com/program-to-click-a-button-n-times/">Setup, Code and first Run</a>
 * <a href="https://matrixread.com/how-i-made-5-selenium-bots/">How I made 5 Selenium Bots</a>
 * <a href="https://matrixread.com/collecting-fake-profiles-on-linkedin/">Collecting Fake Profiles on LinkedIn</a>
 
