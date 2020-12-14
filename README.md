@@ -7,7 +7,7 @@
 	Automate Boring Tasks with Python & Selenium
 </h3>
 
-## This project can Automate
+## 🚀 This project can Automate
 
 🔰 Login and Search 
 
@@ -15,7 +15,7 @@
 
 🔰 Collect Fake Profiles on LinkedIn
 
-## 🚀Setup
+## 🏃‍♂️ Setup
 1. Python 3+
 2. pip install selenium
 3. downlaod Chrome Web Driver  
@@ -30,3 +30,6 @@
 * <a href="https://matrixread.com/how-i-made-5-selenium-bots/">How I made 5 Selenium Bots</a>
 * <a href="https://matrixread.com/collecting-fake-profiles-on-linkedin/">Collecting Fake Profiles on LinkedIn</a>
 * If you like this Project Drop a '🌟' 
+
+## 📜 LICENSE
+[MIT](https://github.com/abhiramready/The-Selenium-Project/blob/master/LICENSE)
