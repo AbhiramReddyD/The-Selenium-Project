@@ -9,11 +9,9 @@
 
 ## 🚀 This project can Automate
 
-🔰 Login and Search 
-
-🔰 Automate Clicks and Actions
-
-🔰 Collect Fake Profiles on LinkedIn
+- Login and Search 
+- Automate Clicks and Actions
+- Collect Fake Profiles on LinkedIn
 
 ## 🏃‍♂️ Setup
 1. Python 3+
